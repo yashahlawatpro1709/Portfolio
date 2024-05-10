@@ -8,7 +8,7 @@ export default function Details() {
         <div className='About py-10 px-4 lg:px-10'>
           <h1 className='text-3xl lg:text-5xl font-bold text-center lg:text-left py-6 lg:py-10'>Hi, there! I am Yash Ahlawat</h1>
           <p className='text-sm lg:text-md italic py-3 lg:py-6 lg:text-left'>
-            "As a fervent web engineer, my passion for technology is more than just a profession—it's a relentless pursuit of innovation and growth. Now, I'm ready to channel that passion into something greater: contributing my skills to empower businesses and fuel their success. With every project, I see an opportunity not only to make a difference but also to evolve personally and professionally. Join me on this exhilarating journey as we explore the dynamic landscape of technology, create impactful solutions, and pave the way for a brighter future together."
+            As a fervent web engineer, my passion for technology is more than just a profession—its a relentless pursuit of innovation and growth. Now, Im ready to channel that passion into something greater: contributing my skills to empower businesses and fuel their success. With every project, I see an opportunity not only to make a difference but also to evolve personally and professionally. Join me on this exhilarating journey as we explore the dynamic landscape of technology, create impactful solutions, and pave the way for a brighter future together.
           </p>
         </div>
         <div className='timeline py-6 lg:py-10'>

@@ -35,7 +35,7 @@ function Navbar() {
           </div>
         </div>
         <div className="navbar-center">
-          <button onClick={downloadPDF} className="btn btn-ghost font-bold text-2xl">YASH'S PORTFOLIO</button>
+          <button onClick={downloadPDF} className="btn btn-ghost font-bold text-2xl">YASH `&apos;` PORTFOLIO</button>
         </div>
         <div className="navbar-end">
           <button className="btn btn-ghost btn-circle">
